@@ -18,6 +18,4 @@ void Setup();/* maximiza a janela*/
 void liberaArv(Pno raiz);/* libera a arvore*/
 
 
-
-
 #endif /* FUNCOES_LIB  */
