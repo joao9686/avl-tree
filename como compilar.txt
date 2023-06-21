@@ -1,0 +1,6 @@
+compilar:
+gcc -o main.exe main.c conio_v3.2.4.c console_v1.5.4.c funcoes.c -Wall -pedantic -Wextra
+
+executar:
+main.exe
+
